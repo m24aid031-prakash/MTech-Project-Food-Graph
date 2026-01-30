@@ -278,11 +278,17 @@ Feel free to extend this project by:
 
 This project is open source and available for educational purposes.
 
+## �‍🏫 Supervisor
+
+**Dr. Brahadeesh Sankarnarayanan**  
+Email: brahadeesh@iitj.ac.in
+
 ## 🙏 Acknowledgments
 
 - Built with NetworkX for graph operations
 - Visualizations created with Matplotlib
 - Calorie data is approximate for demonstration purposes
+- Special thanks to Dr. Brahadeesh Sankarnarayanan for guidance and supervision
 
 ---
 
