@@ -1,0 +1,12 @@
+# Graph data structure library
+networkx>=2.8.0
+
+# Visualization and plotting
+matplotlib>=3.5.0
+
+# NumPy is a dependency of matplotlib and networkx (automatically installed)
+# But listing it explicitly for clarity
+numpy>=1.21.0
+
+# PowerPoint presentation generation
+python-pptx>=0.6.21
