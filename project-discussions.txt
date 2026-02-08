@@ -1,0 +1,44 @@
+Graph Theory Mtech Project
+
+https://spoonacular.com/food-api
+
+Report, PPt 18th 
+
+Questions:
+Madam question: how to calculate weight?
+As it is an image, we cann't calculate weight
+
+Madam question: instead of static food item, add ingredients and calculate based on ingredients present in food item = total calories?
+Ans: I have noted down, will check and get back to you.
+
+Madam question: why CNN is different thatn GNN?
+Ans: CNN is convolution nueral network where as GNN: graph based we can create relation and their weights.
+
+Do some interesting thing to be involved graph theory.
+
+
+03 Jan 2026
+-----------
+We can use Computer vision to check weight of the object (food item) in image.
+
+I have taken one food item that is Burger, the colaries will be varied based on burger types.
+
+I have create graph structure to understand the calorie flow for the food item.
+
+I am using Networkx to create graph structure.
+
+Sir Inputs:
+-----------
+Different chain - take one chain of brand to show their respective brand item calories
+
+Explore how networkx can be implemented used in real time.
+
+Show realtime implementation of the project.
+
+Take: McDonald Brand and already given the calories. https://mcdindia.com/#menu
+
+YOLO: Object detection
+
+Networkx: objects detected by YOLO are modeled as nodes and their interactions or proximity are modeled as edges in NetworkX.
+
+labelImg
