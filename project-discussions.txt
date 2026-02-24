@@ -37,7 +37,7 @@ Show realtime implementation of the project.
 
 Take: McDonald Brand and already given the calories. https://mcdindia.com/#menu
 
-YOLO: Object detection
+YOLO: Object detection -- I have to more focus on this and how this tool works in presentation, commitee will be more focused on this and need to prepare same for this tool.
 
 Networkx: objects detected by YOLO are modeled as nodes and their interactions or proximity are modeled as edges in NetworkX.
 
